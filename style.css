@@ -1,0 +1,140 @@
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, yellowgreen);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 400;
+}
+
+p{
+    color: black;
+    font-weight: 900;
+}
+
+.container{
+    border: 20px solid white;
+}
+
+.SF_half{
+    width: 50%;
+    padding-left: 10%;
+}
+
+.SF_half h1{
+    color: black;
+    font-size: 500;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.blue{
+    color: blue;
+}
+
+.SF_half img{
+    width: 80%;
+}
+
+#MM2_heading{
+    text-align: center;
+}
+
+#MM2_heading h1{
+    color: black;
+    font-size: 500;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.MM2_container{
+    text-align: left;
+    width: 33%;
+    border: 15px solid white;
+    padding: 3%;
+    border-radius: 50px;
+}
+
+.MM2_container img{
+    width: 80%;
+}
+
+#first{
+    background-color: cornflowerblue;
+}
+
+#second{
+    background-color: darkgray;
+}
+
+#third{
+    background-color: darkkhaki;
+}
+
+#DWL_Image{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px 250px;
+    background-position-x: left;
+    background-position-y: center;
+}
+
+.DWL_half{
+    width: 50%;
+    padding-left: 10%;
+}
+
+.DWL_half h1{
+    color: black;
+    font-size: 500;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.DWL_half img{
+    width: 80%;
+}
+
+.KOGC_half{
+    width: 50%;
+    padding-left: 10%;
+}
+
+.KOGC_half h1{
+    color: black;
+    font-size: 500;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.KOGC_half img{
+    width: 80%;
+}
+
+#KOGC_Image{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px 250px;
+    background-position-x: right;
+    background-position-y: center;
+}
+
+section{
+    display: flex;
+}
+
+#Footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin: 0px;
+    padding: 30px 0px;
+}
+
+#Footer h1{
+    font-family: 'Moon Dance', cursive;;
+}
+
+#Footer p{
+    color: whitesmoke;
+}
+
+#orange-color{
+    color: orange;
+}
